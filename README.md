@@ -65,12 +65,7 @@ Credentials are not checked; all users are allowed for demo purposes.
 Made with ❤️ by Swathi Moodi
 Portfolio • LinkedIn • Email
 
----
 
-✅ Next Steps:
-Replace ./screenshot.png with a real screenshot image in your repo
 
-Replace your-username in the GitHub clone URL
 
-Link your real Portfolio, LinkedIn, or Email above
 
