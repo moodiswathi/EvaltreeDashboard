@@ -61,6 +61,15 @@ No actual payment gateway integration — Stripe popup is mocked.
 
 Credentials are not checked; all users are allowed for demo purposes.
 
+## 🌐 Live Demo
+
+👉 [View Live Project](https://evaltree-dashboard.netlify.app)
+
+This is a React-based Evaltree Dashboard with login, collectibles, and mock payment integration.
+
+
+
+
 📧 Contact
 Made with ❤️ by Swathi Moodi
 Portfolio • LinkedIn • Email
