@@ -1,6 +1,11 @@
 # 🌿 Evaltree Dashboard
 
 A responsive React-based dashboard that allows users to log in, view collectibles, and top-up credits through a mock Stripe-like payment popup. This project demonstrates routing, state management, basic UI/UX design, and interactive components.
+## 🚀 Built With
+- React
+- JavaScript
+- CSS
+- HTML
 
 ## 🔑 Demo Credentials
 
