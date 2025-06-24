@@ -7,8 +7,7 @@ function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   return (
-   <Router basename="/candidate-001-evaltree-dashboard-swathi">
-
+    <Router>
       <Routes>
         <Route
           path="/"
