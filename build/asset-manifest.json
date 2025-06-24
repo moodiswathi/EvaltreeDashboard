@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.1ef6520a.css",
-    "main.js": "./static/js/main.7419ae27.js",
-    "static/media/mysticart.jpg": "./static/media/mysticart.c982d34a45c6fa2f3f92.jpg",
-    "static/media/lime crown.avif": "./static/media/lime crown.6e4820a66a37b97ac0a1.avif",
-    "static/media/rarescroll.jpg": "./static/media/rarescroll.d86d93967615dd3ca575.jpg",
-    "static/media/emaraldcard.avif": "./static/media/emaraldcard.4485772f9b132efdf22e.avif",
-    "static/media/goldentoken.avif": "./static/media/goldentoken.a518f60839c10a9f7a45.avif",
-    "static/media/lengendkey.avif": "./static/media/lengendkey.a1a7d86f40d1b0759ab5.avif",
-    "index.html": "./index.html",
-    "main.1ef6520a.css.map": "./static/css/main.1ef6520a.css.map",
-    "main.7419ae27.js.map": "./static/js/main.7419ae27.js.map"
+    "main.css": "/static/css/main.1ef6520a.css",
+    "main.js": "/static/js/main.1c147730.js",
+    "static/media/mysticart.jpg": "/static/media/mysticart.c982d34a45c6fa2f3f92.jpg",
+    "static/media/lime crown.avif": "/static/media/lime crown.6e4820a66a37b97ac0a1.avif",
+    "static/media/rarescroll.jpg": "/static/media/rarescroll.d86d93967615dd3ca575.jpg",
+    "static/media/emaraldcard.avif": "/static/media/emaraldcard.4485772f9b132efdf22e.avif",
+    "static/media/goldentoken.avif": "/static/media/goldentoken.a518f60839c10a9f7a45.avif",
+    "static/media/lengendkey.avif": "/static/media/lengendkey.a1a7d86f40d1b0759ab5.avif",
+    "index.html": "/index.html",
+    "main.1ef6520a.css.map": "/static/css/main.1ef6520a.css.map",
+    "main.1c147730.js.map": "/static/js/main.1c147730.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef6520a.css",
-    "static/js/main.7419ae27.js"
+    "static/js/main.1c147730.js"
   ]
 }
