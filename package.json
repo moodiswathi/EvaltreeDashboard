@@ -1,7 +1,7 @@
 {
   "name": "evaltree-dashboard",
   "version": "1.0.0",
-  "homepage": "https://moodiswathi.github.io/candidate-001-evaltree-dashboard-swathi",
+  "homepage": ".",
 
   "private": true,
   "dependencies": {
