@@ -6,7 +6,7 @@ import emeraldcard from './assets/emaraldcard.avif';
 import mysticart from './assets/mysticart.jpg';
 import rarescroll from './assets/rarescroll.jpg';
 import legendkey from './assets/lengendkey.avif';
-import limecrown from './assets/lime crown.avif'; // ✅ Rename image if space exists!
+import limecrown from './assets/lime crown.avif';
 
 function CreditPanel({ credits, onOpenPayment }) {
   return (
